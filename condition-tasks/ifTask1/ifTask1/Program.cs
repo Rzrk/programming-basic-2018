@@ -29,11 +29,11 @@ namespace ifTask1
                 int number = int.Parse(userInput);
 
             if (number == 0)
-                Console.WriteLine($"Numero {number} on nolla!");  //tulostaa käyttäjälle että numero on 0
+                Console.WriteLine($"Numero {number} on nolla!");  //tulostaa käyttäjälle että numero on 0!
             else if (number<0)
-                Console.WriteLine($"Numero {number} on negatiivinen!"); //tulostaa käyttäjälle että numero on negatiivinen
+                Console.WriteLine($"Numero {number} on negatiivinen!"); //tulostaa käyttäjälle että numero on negatiivinen!
             else 
-                Console.WriteLine($"Numero {number} on positiivinen!"); //tulostaa käyttäjälle että numero on positiivinen
+                Console.WriteLine($"Numero {number} on positiivinen!"); //tulostaa käyttäjälle että numero on positiivinen!
 
 
 
