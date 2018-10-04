@@ -33,12 +33,12 @@ namespace loopTask3_1
 
                 Console.WriteLine($"Luvun {number} ! = {fact}");
 
-            /*
-             * for (i = 1; i <=; i++)
-             * {
-             *      fact * = i;
-             * }
-             * */
+                                                                                                /*
+                                                                                                 * for (i = 1; i <=; i++)
+                                                                                                 * {
+                                                                                                 *      fact * = i;
+                                                                                                 * }
+                                                                                                 * */
      
       
 
