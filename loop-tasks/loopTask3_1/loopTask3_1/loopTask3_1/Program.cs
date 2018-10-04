@@ -13,6 +13,8 @@ namespace loopTask3_1
             int fact = 1;
             do
             {
+
+
                 Console.Write("syötä luku:");
                 string userInput = Console.ReadLine();
                 number = int.Parse(userInput);
