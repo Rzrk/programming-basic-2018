@@ -4,9 +4,7 @@ namespace loopTask4_2
 {
     class Program
    
-{
-    
-    
+    {
         static void Main(string[] args)
         {
             Console.WriteLine("ohjelma tulostaa kertotaulun luvuille 1-9!");
@@ -14,11 +12,8 @@ namespace loopTask4_2
             Console.ReadKey();
             for (int i = 1; i <= 9; i++)
                 for (int j = 1; j <= 9; j++)
-                    Console.WriteLine($"{i} x {j} = {i * j}");
-
-       
-            
-        }
+                    Console.WriteLine($"{i} x {j} = {i * j}");         
+        
         }
     }
 }
