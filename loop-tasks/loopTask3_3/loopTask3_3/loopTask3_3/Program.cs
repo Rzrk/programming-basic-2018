@@ -19,13 +19,13 @@ namespace loopTask3_3
             {
                 if (i % 2 == 0)
                 {
-                    evenSum = evenSum + i; //evenSum += i;
+                    evenSum = evenSum + i; 
                     
                 }
                 
                 else
                 {
-                    oddSum = oddSum + i; //oddSum += i;
+                    oddSum = oddSum + i; 
                     
 
                 }
