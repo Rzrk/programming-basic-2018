@@ -26,10 +26,10 @@ namespace ifTask3
             if (isNumber)
             {
                 if (number % 2 == -1)
-                    Console.WriteLine($"luku {number} on pariton" + $"luku { number} sekä "negatiivinen,)
+                    Console.WriteLine($"luku {number} on pariton" + $"luku { number}  sekä negatiivinen"  ); 
 
 
-
+                           
             }
 
 
