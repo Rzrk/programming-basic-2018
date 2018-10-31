@@ -6,7 +6,7 @@ namespace arrayTask1_1_2
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8; // tällä käskyllä saadaan UTF8 merkit
+            Console.OutputEncoding = System.Text.Encoding.UTF8; // tälllä käskyllä saadaan UTF8 merkit
             int[] productAmount = new int[] { 1, 2, 3 };
             Decimal[] productPrice = new Decimal[3] { 7.96m, 72.0m, 99.90m };
             Decimal[] productTotalPrice = new Decimal[3];
